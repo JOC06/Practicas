@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 22 19:52:51 2023
 
-@author: Javier
+@author: JOCELYNE
 """
 
 def probabilidad_a_priori(numero_dado):
