@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 22 19:53:21 2023
 
-@author: Javier
+@author: JOCELYNE
 """
 
 # Probabilidad a priori de tener la enfermedad
