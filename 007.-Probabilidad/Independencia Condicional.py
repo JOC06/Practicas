@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 22 19:52:00 2023
 
-@author: Javier
+@author: JOCELYNE
 """
 
 # Función para calcular la probabilidad de obtener un número específico en un dado justo
