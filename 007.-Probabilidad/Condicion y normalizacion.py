@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 22 19:48:39 2023
 
-@author: Javier
+@author: JOCELYNE
 """
 
 # Datos de la urna
